@@ -7,6 +7,10 @@ namespace FileWatch.Server
 {
     class Utility
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public static Tuple<bool,string> GetFirstFile()
         {
             try
