@@ -1,0 +1,52 @@
+#wrapper{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+}
+
+#upperblock{
+    height: 50%;
+    width: 99%;  
+    background-color: #ffffff;
+    position: relative;
+    border: 1px solid #283b6d;
+}
+
+#lowerblock{
+    position: relative;
+    height: 40%;
+    width: 95%;
+    background-color: #f4ffff;
+    margin: 25px 10px 0px 10px;
+}
+
+#btnText{
+    left: 400px;
+    position: relative;
+    width: 30%;
+}
+
+#btnText{
+    left: 90px;
+    position: relative;
+    width: 86%;
+    border: 1px solid green;
+    border-radius: 4px;
+    padding: 10px;
+    text-align: center;
+}
+
+.action{
+    float: right;
+    margin-right: 62px;
+    margin-top: 18px;
+    width: 200px;
+    padding: 10px;
+    background-color: #283b6d;
+    color: white;
+    text-align: center;
+    border-radius: 4px;
+    font-size: 12px;
+    font-family: sans-serif;
+    cursor: pointer;
+}
