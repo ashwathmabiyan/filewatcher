@@ -8,7 +8,7 @@ namespace FileWatch.Server
     class Utility
     {
         /// <summary>
-        /// 
+        /// Returns first file in the directory.
         /// </summary>
         /// <returns></returns>
         public static Tuple<bool,string> GetFirstFile()
